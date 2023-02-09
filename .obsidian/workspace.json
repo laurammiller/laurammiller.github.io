@@ -40,13 +40,15 @@
           {
             "id": "541a38665decd47a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2021-02-08-why-garden.md",
+                "file": "_posts/2023-02-08-about-me.md",
                 "mode": "source",
-                "source": true
-              }
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
@@ -95,8 +97,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-02-08-why-garden.md",
+                "file": "_posts/2023-02-08-about-me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2021-02-08-why-garden.md",
+                "file": "_posts/2023-02-08-about-me.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-02-08-why-garden.md"
+                "file": "_posts/2023-02-08-about-me.md"
               }
             }
           }
@@ -177,14 +178,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b6b7533e146175d",
+  "active": "541a38665decd47a",
   "lastOpenFiles": [
-    "_notes/Public/Markdown Rendered.md",
     "_posts/2021-02-08-why-garden.md",
-    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/Markdown Rendered.md",
     "_posts/2023-02-08-about-me.md",
-    "_notes/Public/Hidden Note.md",
+    "_posts/2020-03-01-how-to.md",
     "_posts/2020-03-01-features.md",
-    "_posts/2020-03-01-how-to.md"
+    "_notes/Public/Welcome to the garden.md",
+    "_notes/Public/Hidden Note.md"
   ]
 }
