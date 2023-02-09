@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Markdown Rendered.md",
+                "file": "_notes/Public/Welcome to my garden.md",
                 "mode": "source",
                 "source": true
               }
@@ -46,9 +46,27 @@
               "state": {
                 "file": "_posts/2023-02-08-about-me.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "8a12757e6d36f05d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bb47ff9aad6f309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/Markdown Rendered.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -117,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-02-08-about-me.md",
+                "file": "_notes/Public/Welcome to my garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-02-08-about-me.md",
+                "file": "_notes/Public/Welcome to my garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-02-08-about-me.md"
+                "file": "_notes/Public/Welcome to my garden.md"
               }
             }
           }
@@ -178,14 +196,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "541a38665decd47a",
+  "active": "849a2de807a47b3b",
   "lastOpenFiles": [
-    "_posts/2021-02-08-why-garden.md",
     "_notes/Public/Markdown Rendered.md",
+    "assets/img/avatar.png",
     "_posts/2023-02-08-about-me.md",
+    "_notes/Public/Welcome to my garden.md",
+    "_posts/2021-02-08-why-garden.md",
     "_posts/2020-03-01-how-to.md",
     "_posts/2020-03-01-features.md",
-    "_notes/Public/Welcome to the garden.md",
     "_notes/Public/Hidden Note.md"
   ]
 }
