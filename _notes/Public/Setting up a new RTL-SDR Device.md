@@ -1,5 +1,11 @@
+---
+title : Setting up RTL-SDR
+feed: show
+date : 02-08-23
+---
+
 #rtlsdr #adsb #sdr
-https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/
+[RTL-SDR Setup](https://www.rtl-sdr.com/rtl-sdr-quick-start-guide/ "RTL-SDR")
 
 1. Download sdr#
 2. install-rtlsdr.bat from sdrsharp zip
