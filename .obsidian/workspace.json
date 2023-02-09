@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-02-08-about-me.md",
+                "file": "_posts/2021-02-08-why-garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-02-08-about-me.md",
+                "file": "_posts/2021-02-08-why-garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-02-08-about-me.md"
+                "file": "_posts/2021-02-08-why-garden.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d399228748aae714",
+  "active": "849a2de807a47b3b",
   "lastOpenFiles": [
+    "_posts/2023-02-08-about-me.md",
     "_posts/2021-02-08-why-garden.md"
   ]
 }
