@@ -1,3 +1,7 @@
+title : Python Virtual Environment
+feed: show
+date : 02-08-23
+
 #python #venv #powershell
 Use powershell
 

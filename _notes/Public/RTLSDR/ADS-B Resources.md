@@ -13,10 +13,13 @@ Some nice resources I've found in my searches.
 	
 ![[Running dump1090.bat.png]]
 
-	Uses rtlsdr.dll, decodes messages into View1090.exe
-	on my VM, had to reroute to port 8081 in dump1090.bat, not sure why
-pyModeS
-	decoding #adsb messages in #python 
+Uses rtlsdr.dll, decodes messages into View1090.exe
+
+When I installed and tested this, I had to reroute to port 8081 in dump1090.bat. I am not sure why, yet.
+
+
+## pyModeS
+Use this for decoding #adsb messages in #python 
 	https://github.com/junzis/pyModeS
 	`pip install pyModeS`
 

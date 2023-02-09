@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Setting up a new RTL-SDR Device.md",
+                "file": "_notes/Public/RTLSDR/ADS-B Resources.md",
                 "mode": "source",
                 "source": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Setting up a new RTL-SDR Device.md",
+                "file": "_notes/Public/RTLSDR/ADS-B Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Setting up a new RTL-SDR Device.md",
+                "file": "_notes/Public/RTLSDR/ADS-B Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Setting up a new RTL-SDR Device.md"
+                "file": "_notes/Public/RTLSDR/ADS-B Resources.md"
               }
             }
           }
@@ -196,15 +196,15 @@
   },
   "active": "849a2de807a47b3b",
   "lastOpenFiles": [
-    "_posts/2021-02-08-why-garden.md",
-    "_notes/Public/Welcome to my garden.md",
-    "_notes/Public/Setting up a new RTL-SDR Device.md",
-    "_notes/Public/Markdown Rendered.md",
     "_notes/Public/RTLSDR/LabVIEW RTL-SDR Resources.md",
-    "_notes/Public/RTLSDR/ADS-B Resources.md",
-    "_notes/Public/Quick Tips/Python Resources.md",
+    "_notes/Public/RTLSDR/Setting up a new RTL-SDR Device.md",
     "_notes/Public/Quick Tips/Obsidian Shortcuts.md",
     "_notes/Public/Quick Tips/Creating a Python venv.md",
+    "_notes/Public/RTLSDR/ADS-B Resources.md",
+    "_posts/2021-02-08-why-garden.md",
+    "_notes/Public/Welcome to my garden.md",
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Quick Tips/Python Resources.md",
     "_posts/2023-02-08-about-me.md"
   ]
 }
