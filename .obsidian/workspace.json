@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2021-02-08-why-garden.md",
+                "file": "_notes/Public/Markdown Rendered.md",
                 "mode": "source",
                 "source": false
               }
@@ -28,6 +28,24 @@
                 "file": "_posts/2023-02-08-about-me.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8fa6580f7d0aa5ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "541a38665decd47a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2021-02-08-why-garden.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -158,11 +176,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "849a2de807a47b3b",
+  "active": "541a38665decd47a",
   "lastOpenFiles": [
-    "_posts/2023-02-08-about-me.md",
-    "_posts/2021-02-08-why-garden.md",
+    "_notes/Public/Markdown Rendered.md",
     "_notes/Public/Welcome to the garden.md",
+    "_posts/2021-02-08-why-garden.md",
+    "_posts/2023-02-08-about-me.md",
     "_notes/Public/Hidden Note.md",
     "_posts/2020-03-01-features.md",
     "_posts/2020-03-01-how-to.md"
