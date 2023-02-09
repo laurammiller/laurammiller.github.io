@@ -15,7 +15,7 @@
               "state": {
                 "file": "_notes/Public/Markdown Rendered.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,11 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "541a38665decd47a",
+  "active": "9b6b7533e146175d",
   "lastOpenFiles": [
     "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Welcome to the garden.md",
     "_posts/2021-02-08-why-garden.md",
+    "_notes/Public/Welcome to the garden.md",
     "_posts/2023-02-08-about-me.md",
     "_notes/Public/Hidden Note.md",
     "_posts/2020-03-01-features.md",
