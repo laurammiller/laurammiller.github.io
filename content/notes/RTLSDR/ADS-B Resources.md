@@ -4,7 +4,7 @@ feed: show
 date : 02-08023
 tags:
 ---
-Some nice resources I've found in my searches.
+Some nice resources I've found in my searches. Make sure to check [[Setting up a new RTL-SDR Device]]
 
 ## dump1090
 #dump1090 #rtlsdr #adsb #python 
