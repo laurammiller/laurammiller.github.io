@@ -18,54 +18,19 @@
             }
           },
           {
-            "id": "d399228748aae714",
+            "id": "a9a44136c8bb25f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-02-08-about-me.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1285b05ec0f15bdd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a38fc00b86818dfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2021-02-08-why-garden.md",
+                "file": "content/notes/why-garden.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
-      },
-      {
-        "id": "8a12757e6d36f05d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4bb47ff9aad6f309",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/Public/Markdown Rendered.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2021-02-08-why-garden.md",
+                "file": "content/notes/why-garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2021-02-08-why-garden.md",
+                "file": "content/notes/why-garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2021-02-08-why-garden.md"
+                "file": "content/notes/why-garden.md"
               }
             }
           },
@@ -209,17 +174,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "849a2de807a47b3b",
+  "active": "a9a44136c8bb25f9",
   "lastOpenFiles": [
+    "content/notes/about-me.md",
+    "content/notes/RTLSDR/Setting up a new RTL-SDR Device.md",
+    "content/notes/RTLSDR/LabVIEW RTL-SDR Resources.md",
+    "content/notes/RTLSDR/ADS-B Resources.md",
+    "content/notes/Quick Tips/Python Resources.md",
+    "content/notes/Quick Tips/Obsidian Shortcuts.md",
+    "content/notes/Quick Tips/Creating a Python venv.md",
+    "content/notes/why-garden.md",
     "assets/img/avatar.png",
-    "_notes/Public/RTLSDR/ADS-B Resources.md",
-    "_notes/Public/RTLSDR/Setting up a new RTL-SDR Device.md",
-    "_notes/Public/RTLSDR/LabVIEW RTL-SDR Resources.md",
-    "_posts/2023-02-08-about-me.md",
-    "_notes/Public/Quick Tips/Obsidian Shortcuts.md",
-    "_notes/Public/Quick Tips/Creating a Python venv.md",
-    "_posts/2021-02-08-why-garden.md",
-    "_notes/Public/Welcome to my garden.md",
-    "_notes/Public/Markdown Rendered.md"
+    "_notes/Public/RTLSDR/ADS-B Resources.md"
   ]
 }

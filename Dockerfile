@@ -1,16 +1,10 @@
-FROM ruby:3.1.1-alpine3.15
+FROM alpine:3.16
 
-RUN apk add --no-cache build-base nodejs-current
+RUN apk add --no-cache go hugo git make perl
+RUN go install github.com/jackyzha0/hugo-obsidian@latest
+ENV PATH="/root/go/bin:$PATH"
+RUN git clone https://github.com/jackyzha0/quartz.git /quartz
 
-RUN gem install bundler
+WORKDIR /quartz
 
-WORKDIR /usr/src/app
-
-COPY . /usr/src/app
-
-RUN bundle install
-
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]
-
-EXPOSE 4000
-
+CMD ["make", "serve"]
