@@ -1,4 +1,4 @@
-baseURL = "https://laura.wiki/"
+baseURL = "https://www.laura.wiki/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
