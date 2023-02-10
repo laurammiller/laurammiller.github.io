@@ -2,8 +2,7 @@
 title : "Setting up RTL-SDR"
 feed: show
 date : 02-08-23
-tags:
--RTLSDR
+tags: -RTLSDR
 ---
 
 #rtlsdr #adsb #sdr

@@ -2,8 +2,7 @@
 title: "Python Virtual Environment"
 feed: show
 date: 02-08-23
-tags:
-- python
+tags: -python
 ---
 #python #venv #powershell
 Use powershell

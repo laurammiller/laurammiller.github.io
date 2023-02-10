@@ -1,3 +1,9 @@
+---
+title : "About Me"
+feed: show
+date : 02-08-23
+---
+
 Hello! I'm Laura. 
 
 ![Me](avatar.png "Me")

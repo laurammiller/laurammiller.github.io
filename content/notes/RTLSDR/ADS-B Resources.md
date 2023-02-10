@@ -3,8 +3,6 @@ title : "ADS-B Resources"
 feed: show
 date : 02-08023
 tags:
--adsb
--dump1090
 ---
 Some nice resources I've found in my searches.
 
