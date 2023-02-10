@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/why-garden.md",
+                "file": "content/notes/LabVIEW/LabVIEW.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,14 +96,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/why-garden.md",
+                "file": "content/notes/LabVIEW/LabVIEW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/why-garden.md",
+                "file": "content/notes/LabVIEW/LabVIEW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/why-garden.md"
+                "file": "content/notes/LabVIEW/LabVIEW.md"
               }
             }
           },
@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,15 +175,15 @@
   },
   "active": "a9a44136c8bb25f9",
   "lastOpenFiles": [
+    "content/notes/Quick Tips/Creating a Python venv.md",
+    "content/notes/LabVIEW/LabVIEW.md",
+    "content/notes/base/why-garden.md",
+    "content/notes/base/Laura.md",
     "content/notes/about-me.md",
-    "content/notes/why-garden.md",
     "content/notes/RTLSDR/Setting up a new RTL-SDR Device.md",
     "content/notes/RTLSDR/ADS-B Resources.md",
-    "content/_index.md",
-    "content/notes/Laura.md",
-    "content/notes/images/NatureMorte.png",
-    "content/notes/images/Powershell VENV.png",
     "content/notes/RTLSDR/LabVIEW RTL-SDR Resources.md",
-    "content/notes/Quick Tips/Python Resources.md"
+    "content/_index.md",
+    "content/notes/images/NatureMorte.png"
   ]
 }

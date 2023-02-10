@@ -1,5 +1,5 @@
 ---
-title : "Setting up RTL-SDR"
+title : "Setting up a new RTL-SDR Device"
 feed: show
 date : 02-08-23
 tags: -RTLSDR
