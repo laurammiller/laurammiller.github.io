@@ -23,9 +23,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/RTL-SDR/RTL-SDR Basics.md",
+                "file": "content/notes/base/why-garden.md",
                 "mode": "source",
-                "source": false
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/RTL-SDR/RTL-SDR Basics.md",
+                "file": "content/notes/base/why-garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/RTL-SDR/RTL-SDR Basics.md",
+                "file": "content/notes/base/why-garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/RTL-SDR/RTL-SDR Basics.md"
+                "file": "content/notes/base/why-garden.md"
               }
             }
           },
@@ -155,12 +156,21 @@
               "type": "juggl_style",
               "state": {}
             }
+          },
+          {
+            "id": "6264c34bb01d8226",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,15 +185,15 @@
   },
   "active": "5241c3013aa7fdb4",
   "lastOpenFiles": [
+    "content/notes/base/Laura.md",
+    "content/notes/RTL-SDR/RTL-SDR Basics.md",
     "content/notes/RTL-SDR/ADS-B Basics.md",
     "content/notes/RTL-SDR/RTL-SDR.md",
-    "content/notes/base/Laura.md",
     "content/notes/base/why-garden.md",
     "content/notes/RTLSDR/ADS-B Resources.md",
     "content/notes/RTLSDR/Setting up a new RTL-SDR Device.md",
     "content/notes/RTLSDR/LabVIEW RTL-SDR Resources.md",
     "content/notes/Quick Tips/Python Resources.md",
-    "content/notes/Quick Tips/Obsidian Shortcuts.md",
-    "content/notes/LabVIEW/LabVIEW.md"
+    "content/notes/Quick Tips/Obsidian Shortcuts.md"
   ]
 }
