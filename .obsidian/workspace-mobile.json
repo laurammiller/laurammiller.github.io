@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "d8cdbbadfbb67e8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "224536b46fa80cb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cf2fdbb6d66363b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/RTL-SDR/RTL-SDR Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfd8ee08484f8a26",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c7a2b908525daab0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "408248e4cbd8f74c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "dd8e45decbb91837",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "76dd7fc410af5edb",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "70fc4675d0a9f2c3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2a9399f0f27202a6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "content/notes/RTL-SDR/RTL-SDR Basics.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4fa800e72c712845",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "content/notes/RTL-SDR/RTL-SDR Basics.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "811711a343ae0c50",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "content/notes/RTL-SDR/RTL-SDR Basics.md"
+          }
+        }
+      },
+      {
+        "id": "0c17d3fdf312bd61",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_nodes",
+          "state": {}
+        }
+      },
+      {
+        "id": "c1e7588aefff670b",
+        "type": "leaf",
+        "state": {
+          "type": "juggl_style",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "4cf2fdbb6d66363b",
+  "lastOpenFiles": [
+    "content/notes/RTL-SDR/ADS-B Basics.md",
+    "content/notes/RTL-SDR/RTL-SDR Basics.md",
+    "content/notes/RTL-SDR/RTL-SDR.md",
+    "content/notes/RTL-SDR.md",
+    "RTL-SDR/RTL-SDR.md",
+    "content/notes/base/Laura.md",
+    "content/notes/RTL-SDR/ADS-B Resources.md",
+    "content/notes/RTL-SDR/Setting up a new RTL-SDR Device.md",
+    "content/notes/RTL-SDR/RTL-SDR Antennna Design.md",
+    "content/notes/RTL-SDR/LabVIEW RTL-SDR Resources.md"
+  ]
+}

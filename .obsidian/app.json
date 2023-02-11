@@ -1,4 +1,7 @@
 {
-  "attachmentFolderPath": "./",
-  "alwaysUpdateLinks": true
+  "attachmentFolderPath": "content/notes/images",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/notes",
+  "promptDelete": false
 }
