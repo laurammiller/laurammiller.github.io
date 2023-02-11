@@ -3,5 +3,5 @@ title: Laura's Digital Garden
 enableToc: false
 ---
 
-Welcome to [[Laura]]'s digital garden. A personal wiki containing current projects and ideas, with room to grow in any direction.
+Welcome to [[Laura]]'s digital garden. A personal wiki containing current projects [[RTL-SDR Antennna Design]] and ideas, with room to grow [[why-garden]] in any direction.
 
