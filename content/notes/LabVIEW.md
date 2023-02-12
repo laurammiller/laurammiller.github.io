@@ -9,4 +9,4 @@ My favorite programming language
 [LabVIEW Wiki](https://labviewwiki.org/wiki/Home)
 
 ## Current Projects
-[[content/notes/RTL-SDR/LabVIEW-RTL-SDR-Resources]]
+[[content/notes/LabVIEW-RTL-SDR-Resources]]
