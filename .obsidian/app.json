@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "content/notes",
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "absolute"
 }

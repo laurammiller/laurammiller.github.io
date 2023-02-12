@@ -5,6 +5,6 @@ date : 02-10-23
 tags: -RTLSDR
 ---
 
-- [[Setting up a new RTL-SDR Device]]
-- [[RTL-SDR Antennna Design]]
-- [[LabVIEW RTL-SDR Resources]]
+- [[content/notes/RTL-SDR/Setting-up-a-new-RTL-SDR-Device]]
+- [[content/notes/RTL-SDR/RTL-SDR-Antennna-Design]]
+- [[content/notes/RTL-SDR/LabVIEW-RTL-SDR-Resources]]

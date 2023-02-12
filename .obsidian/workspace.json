@@ -18,15 +18,15 @@
             }
           },
           {
-            "id": "5241c3013aa7fdb4",
+            "id": "95ed0f3660ed9c87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/base/why-garden.md",
+                "file": "content/notes/base/Laura.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/base/why-garden.md",
+                "file": "content/notes/base/Laura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/base/why-garden.md",
+                "file": "content/notes/base/Laura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/base/why-garden.md"
+                "file": "content/notes/base/Laura.md"
               }
             }
           },
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,17 +183,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "5241c3013aa7fdb4",
+  "active": "95ed0f3660ed9c87",
   "lastOpenFiles": [
+    "content/notes/LabVIEW/LabVIEW.md",
     "content/notes/base/Laura.md",
-    "content/notes/RTL-SDR/RTL-SDR Basics.md",
-    "content/notes/RTL-SDR/ADS-B Basics.md",
-    "content/notes/RTL-SDR/RTL-SDR.md",
+    "content/notes/RTL-SDR/ADS-B-Resources.md",
+    "content/notes/RTL-SDR/ADS-B-Basics.md",
     "content/notes/base/why-garden.md",
-    "content/notes/RTLSDR/ADS-B Resources.md",
-    "content/notes/RTLSDR/Setting up a new RTL-SDR Device.md",
-    "content/notes/RTLSDR/LabVIEW RTL-SDR Resources.md",
-    "content/notes/Quick Tips/Python Resources.md",
-    "content/notes/Quick Tips/Obsidian Shortcuts.md"
+    "content/notes/RTL-SDR/Setting-up-a-new-RTL-SDR-Device.md",
+    "content/notes/RTL-SDR/RTL-SDR-Antennna-Design.md",
+    "content/notes/RTL-SDR/LabVIEW-RTL-SDR-Resources.md",
+    "content/notes/Quick Tips/Python-Resources.md",
+    "content/notes/Quick Tips/Obsidian-Shortcuts.md"
   ]
 }

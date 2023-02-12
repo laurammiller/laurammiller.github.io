@@ -15,4 +15,4 @@ tags: -RTLSDR
 5. select Interface0 ( may need to go to Options-> List All Devices)
 6. run SDRSharp.exe and test it out
 
-Then head over to [[ADS-B Resources]]
+Then head over to [[content/notes/RTL-SDR/ADS-B-Resources]]
