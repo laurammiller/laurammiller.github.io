@@ -4,5 +4,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "content/notes",
   "promptDelete": false,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }

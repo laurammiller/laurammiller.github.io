@@ -18,7 +18,33 @@
             }
           },
           {
-            "id": "95ed0f3660ed9c87",
+            "id": "73d5b3b4d7c5ebea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/Laura.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92dc04e8065cca9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/Laura.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "269f62d73c420d5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,17 +209,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "95ed0f3660ed9c87",
+  "active": "269f62d73c420d5b",
   "lastOpenFiles": [
-    "content/notes/LabVIEW.md",
-    "content/notes/Laura.md",
     "content/notes/ADS-B-Resources.md",
+    "content/notes/Laura.md",
+    "content/notes/LabVIEW.md",
+    "content/LabVIEW.md",
+    "content/notes/ADS-B-Basics.md",
     "content/notes/why-garden.md",
     "content/notes/RTL-SDR-Antennna-Design.md",
     "content/notes/RTL-SDR Basics.md",
     "content/notes/Python-Resources.md",
-    "content/notes/Setting-up-a-new-RTL-SDR-Device.md",
-    "content/notes/LabVIEW-RTL-SDR-Resources.md",
-    "content/notes/ADS-B-Basics.md"
+    "content/notes/Setting-up-a-new-RTL-SDR-Device.md"
   ]
 }
