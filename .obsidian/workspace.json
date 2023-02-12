@@ -55,9 +55,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "8de84e3e78e622df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/why-garden.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Laura.md",
+                "file": "content/notes/why-garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Laura.md",
+                "file": "content/notes/why-garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Laura.md"
+                "file": "content/notes/why-garden.md"
               }
             }
           },
@@ -209,17 +222,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "269f62d73c420d5b",
+  "active": "8de84e3e78e622df",
   "lastOpenFiles": [
-    "content/notes/ADS-B-Resources.md",
-    "content/notes/Laura.md",
-    "content/notes/LabVIEW.md",
-    "content/LabVIEW.md",
-    "content/notes/ADS-B-Basics.md",
-    "content/notes/why-garden.md",
+    "content/notes/Setting-up-a-new-RTL-SDR-Device.md",
     "content/notes/RTL-SDR-Antennna-Design.md",
     "content/notes/RTL-SDR Basics.md",
     "content/notes/Python-Resources.md",
-    "content/notes/Setting-up-a-new-RTL-SDR-Device.md"
+    "content/notes/Obsidian-Shortcuts.md",
+    "content/notes/Laura.md",
+    "content/notes/LabVIEW-RTL-SDR-Resources.md",
+    "content/notes/images/Powershell VENV.png",
+    "content/notes/images/Pasted image 20230212164447.png",
+    "content/notes/images/dipole.jpg"
   ]
 }

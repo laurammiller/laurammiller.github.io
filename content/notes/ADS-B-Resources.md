@@ -4,7 +4,7 @@ feed: show
 date : 02-08023
 tags:
 ---
-Some nice resources I've found in my searches. Make sure to check [[content/notes/Setting-up-a-new-RTL-SDR-Device]]
+Some nice resources I've found in my searches. Make sure to check [[notes/Setting-up-a-new-RTL-SDR-Device]]
 
 ## dump1090
 #dump1090 #rtlsdr #adsb #python 
@@ -24,5 +24,5 @@ Use this for decoding #adsb messages in #python
 	https://github.com/junzis/pyModeS
 	`pip install pyModeS`
 
-[[content/notes/Python-Resources]]
-[[content/notes/LabVIEW-RTL-SDR-Resources]]
+[[notes/Python-Resources]]
+[[notes/LabVIEW-RTL-SDR-Resources]]

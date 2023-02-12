@@ -11,5 +11,5 @@ Antenna dimension (wavelength) inversely correlated with target frequencies. Hig
 ### Some interesting designs:
 - Discone Antenna
 - Dipole
-![[20230210_184652.jpg]]
+![[notes/images/dipole.jpg]]
 
