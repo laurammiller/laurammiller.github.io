@@ -10,4 +10,4 @@ My favorite programming language
 - [LAVA](https://lavag.org/)
 
 ## Interesting Projects
-- [RTL-SDR](notes/LabVIEW-RTL-SDR-Resources)
+- [RTL-SDR](notes/RTLSDR/LabVIEW-RTL-SDR-Resources.md)
