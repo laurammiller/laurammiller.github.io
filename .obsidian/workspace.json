@@ -88,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Python-Resources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Python-Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/Python-Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/Python-Resources.md"
               }
             }
           },
@@ -250,15 +250,15 @@
   },
   "active": "881428bc48d01f80",
   "lastOpenFiles": [
-    "content/notes/Laura.md",
-    "content/notes/LabVIEW.md",
+    "content/notes/Magnetohydrodynamic.md",
     "content/notes/ION-Propulsion.md",
-    "content/notes/Electric-Planes.md",
     "content/notes/Aviation-Topics.md",
-    "content/notes/RTL-SDR-Basics.md",
-    "content/notes/Quartz-Preview.md",
-    "content/notes/why-garden.md",
-    "content/_index.md",
-    "content/notes/RTL-SDR-Antennna-Design.md"
+    "content/notes/Laura.md",
+    "content/notes/Obsidian-Shortcuts.md",
+    "content/notes/ADS-B-Resources.md",
+    "content/notes/Python-Resources.md",
+    "content/notes/LabVIEW.md",
+    "content/notes/LabVIEW-RTL-SDR-Resources.md",
+    "content/notes/Electric-Planes.md"
   ]
 }

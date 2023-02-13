@@ -24,5 +24,6 @@ Use this for decoding #adsb messages in #python
 	https://github.com/junzis/pyModeS
 	`pip install pyModeS`
 
-[[notes/Python-Resources]]
-[[notes/LabVIEW-RTL-SDR-Resources]]
+## Background
+- [[notes/Python-Resources]]
+- [[notes/LabVIEW-RTL-SDR-Resources]]
