@@ -2,7 +2,7 @@
 title : "Quartz Preview"
 feed: show
 date : 02-08-23
-tags : quartz, GO, GOPATH, obsidian
+tags : -quartz
 ---
 
 To enable a local live preview of the static site that is generated from the local Obsidian vault, follow the steps [here](https://quartz.jzhao.xyz/notes/preview-changes/).  A confusing detail is that this live preview is required for all backlinks and graphs to work properly. Details below..

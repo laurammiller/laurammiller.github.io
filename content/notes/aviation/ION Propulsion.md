@@ -2,6 +2,7 @@
 title : "Ion Drives and Propulsion"
 feed: show
 date : 02-12-23
+tags : -ionwind
 ---
 # Good Resources
 - [NASA](https://www.nasa.gov/centers/glenn/technology/Ion_Propulsion1.html) 

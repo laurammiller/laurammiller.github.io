@@ -10,7 +10,7 @@ tags: -openbci
 
 ## Kits for sale
 
-![](content/notes/images/Ganglion%20Starter%20Kit.png)
+![](notes/images/Ganglion%20Starter%20Kit.png)
 
 ## Hardware files
  - https://github.com/OpenBCI/V3_Hardware_Design_Files 
