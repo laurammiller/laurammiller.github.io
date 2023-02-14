@@ -10,7 +10,7 @@ date : 02-08-23
 - [ADS-B-Basics](notes/ADSB/ADS-B-Basics.md)
 
 ## Propulsion
-- [ION-Propulsion](notes/aviation/ION-Propulsion.md)
+- [ION Propulsion](notes/aviation/ION%20Propulsion.md)
 - [[notes/aviation/Electric-Planes]]
 - [[notes/aviation/Magnetohydrodynamic]]
 

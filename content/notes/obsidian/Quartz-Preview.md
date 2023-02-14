@@ -21,8 +21,10 @@ To enable a local live preview of the static site that is generated from the loc
 		3. `choco install hugo-extended`
 4. CD into working github directory
 5. Use HUGO to build site and serve locally
-	1. `hugo-obsidian -input=content -output=assets/indices -index -root=.`
-	2. ` hugo server --enableGitInfo --minify --bind=0.0.0.0 --baseURL=http://localhost --port=1313 --appendPort=true --liveReloadPort=-1`
+	1. make serve
+	2. manual hugo commands
+		1. `hugo-obsidian -input=content -output=assets/indices -index -root=.`
+		2. ` hugo server --enableGitInfo --minify --bind=0.0.0.0 --baseURL=http://localhost --port=1313 --appendPort=true --liveReloadPort=-1`
 6. Editing GOPATH (May or may not be required)
 	1. Enter these commands every time you restart the server
 	2. `export GOPATH=$HOME/go`

@@ -18,77 +18,12 @@
             }
           },
           {
-            "id": "73d5b3b4d7c5ebea",
+            "id": "1960ed0fa7545691",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Laura.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92dc04e8065cca9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/Laura.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "269f62d73c420d5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/Laura.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8de84e3e78e622df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/Laura.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b02f546c6b199f01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/Laura.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "881428bc48d01f80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/ADS-B-Resources.md",
+                "file": "content/notes/aviation/Electro-Static Propellor.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -96,7 +31,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/",
+                "query": "zvs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/ADS-B-Resources.md",
+                "file": "content/notes/images/Fluid Dynamics.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/ADS-B-Resources.md",
+                "file": "content/notes/images/Fluid Dynamics.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/ADS-B-Resources.md"
+                "file": "content/notes/images/Fluid Dynamics.png"
               }
             }
           },
@@ -248,17 +183,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "881428bc48d01f80",
+  "active": "e0968fc20fd7388b",
   "lastOpenFiles": [
-    "content/notes/ADS-B-Basics.md",
-    "content/notes/Python-Resources.md",
-    "content/notes/Magnetohydrodynamic.md",
-    "content/notes/ION-Propulsion.md",
-    "content/notes/Aviation-Topics.md",
-    "content/notes/Laura.md",
-    "content/notes/Obsidian-Shortcuts.md",
-    "content/notes/ADS-B-Resources.md",
-    "content/notes/LabVIEW.md",
-    "content/notes/LabVIEW-RTL-SDR-Resources.md"
+    "content/notes/images/Plasma Jet.png",
+    "content/notes/aviation/ION Propulsion.md",
+    "content/notes/images/Ion Wind.png",
+    "content/notes/images/Ion Wind 2.png",
+    "content/notes/images/ION Wind Plane MIT 2.png",
+    "content/notes/images/ION Wind Plane MIT 3.png",
+    "content/notes/images/Fluid Dynamics.png",
+    "content/notes/aviation/Aviation-Topics.md",
+    "content/notes/obsidian/Quartz-Preview.md",
+    "content/notes/electrical components/High Voltage Generator.md"
   ]
 }

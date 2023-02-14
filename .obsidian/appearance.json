@@ -1,3 +1,5 @@
 {
-  "accentColor": "#087daf"
+  "accentColor": "#087daf",
+  "cssTheme": "Solarized",
+  "theme": "system"
 }
