@@ -13,4 +13,5 @@ date : 02-08-23
 - [ION Propulsion](notes/aviation/ION%20Propulsion.md)
 - [[notes/aviation/Electric-Planes]]
 - [[notes/aviation/Magnetohydrodynamic]]
+- [Electro-Static Propellor](notes/aviation/Electro-Static%20Propellor.md)
 

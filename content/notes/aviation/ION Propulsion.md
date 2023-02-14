@@ -9,8 +9,8 @@ date : 02-12-23
 
 # Common Concepts
 ## ION Wind
- ![](content/notes/images/Ion%20Wind.png)
- ![](content/notes/images/Ion%20Wind%202.png)
+ ![](notes/images/Ion%20Wind.png)
+ ![](notes/images/Ion%20Wind%202.png)
 ## ION Thrusters 
  ![](notes/images/NASA%20ION%20Thruster.png)
  ### DIY Projects
@@ -18,15 +18,15 @@ date : 02-12-23
  2. [Plasma Channel](https://www.youtube.com/watch?v=nrEBoPYS4ns&t=28s)
  (Will need a [High Voltage Generator](notes/electrical%20components/High%20Voltage%20Generator.md))
 ## Plasma Jet
- ![](content/notes/images/Plasma%20Jet.png)
+ ![](notes/images/Plasma%20Jet.png)
 ## Fluid Dynamics
-![](content/notes/images/Fluid%20Dynamics.png)
+![](notes/images/Fluid%20Dynamics.png)
 
 # Interesting Projects
 - [MIT](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
 ![](notes/images/ION%20Wind%20Plane%20MIT.png)
-![](content/notes/images/ION%20Wind%20Plane%20MIT%202.png)
-![](content/notes/images/ION%20Wind%20Plane%20MIT%203.png)
+![](notes/images/ION%20Wind%20Plane%20MIT%202.png)
+![](notes/images/ION%20Wind%20Plane%20MIT%203.png)
 - [[notes/aviation/Electro-Static Propellor]]
 - DARPA Black Widow MAV Micro UAV
 

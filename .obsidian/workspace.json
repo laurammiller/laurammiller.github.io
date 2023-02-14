@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/aviation/Electro-Static Propellor.md",
+                "file": "content/notes/aviation/Aviation-Topics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/images/Fluid Dynamics.png",
+                "file": "content/notes/aviation/Aviation-Topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/images/Fluid Dynamics.png",
+                "file": "content/notes/aviation/Aviation-Topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/images/Fluid Dynamics.png"
+                "file": "content/notes/aviation/Aviation-Topics.md"
               }
             }
           },
@@ -183,17 +183,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "e0968fc20fd7388b",
+  "active": "1960ed0fa7545691",
   "lastOpenFiles": [
-    "content/notes/images/Plasma Jet.png",
+    "content/notes/aviation/Electric-Planes.md",
+    "content/notes/aviation/Electro-Static Propellor.md",
     "content/notes/aviation/ION Propulsion.md",
+    "content/notes/aviation/Magnetohydrodynamic.md",
+    "content/notes/electrical components/High Voltage Generator.md",
+    "content/notes/images/Fluid Dynamics.png",
+    "content/notes/images/Plasma Jet.png",
     "content/notes/images/Ion Wind.png",
     "content/notes/images/Ion Wind 2.png",
-    "content/notes/images/ION Wind Plane MIT 2.png",
-    "content/notes/images/ION Wind Plane MIT 3.png",
-    "content/notes/images/Fluid Dynamics.png",
-    "content/notes/aviation/Aviation-Topics.md",
-    "content/notes/obsidian/Quartz-Preview.md",
-    "content/notes/electrical components/High Voltage Generator.md"
+    "content/notes/images/ION Wind Plane MIT 2.png"
   ]
 }

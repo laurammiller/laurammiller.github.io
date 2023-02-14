@@ -6,7 +6,7 @@ date : 02-13-23
 
 # Uses
 
-For plasma generation. Required for [ION Propulsion](content/notes/aviation/ION%20Propulsion.md)
+For plasma generation. Required for [ION Propulsion](notes/aviation/ION%20Propulsion.md)
 
 # Types
 
