@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
-                "mode": "preview",
+                "file": "notes/aviation/Magnetohydrodynamic.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "notes/aviation/Magnetohydrodynamic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "notes/aviation/Magnetohydrodynamic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "notes/aviation/Magnetohydrodynamic.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 555.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +156,13 @@
   },
   "active": "82446d5c17e877bf",
   "lastOpenFiles": [
+    "notes/images/Pasted image 20230214194712.png",
+    "notes/aviation/Magnetohydrodynamic.md",
+    "notes/aviation/images/MHD.png",
     "notes/images/Fluid Dynamics.png",
+    "notes/aviation/ION Propulsion.md",
+    "notes/images/ION propulstion illustration.png",
+    "notes/images/Tabletop ION wind.png",
     "_index.md",
     "notes/images/NatureMorte.png",
     "notes/electrical components/High Voltage Generator.md"
