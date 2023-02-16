@@ -10,8 +10,8 @@ tags : -ionwind
 
 # Common Concepts
 ## ION Wind
- ![](notes/aviation/images/Ion%20Wind.png)
- ![](notes/aviation/images/Ion%20Wind%202.png)
+ ![](notes/aviation/cutting%20edge/images/Ion%20Wind.png)
+ ![](notes/aviation/cutting%20edge/images/Ion%20Wind%202.png)
  ### DIY Projects
  [ION Wind](![[notes/images/Tabletop ION wind.png]])
  [Video](https://www.youtube.com/watch?v=wbe_Ld3AGYI)
@@ -28,15 +28,15 @@ tags : -ionwind
 ## Plasma Jet
  ![](notes/images/Plasma%20Jet.png)
 ## Fluid Dynamics
-similar topic: [[notes/aviation/Magnetohydrodynamic]]
+similar topic: [[notes/aviation/cutting edge/Magnetohydrodynamic]]
 ![](notes/images/Fluid%20Dynamics.png)
 
 # Interesting Projects
 - [MIT](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
-![](notes/aviation/images/ION%20Wind%20Plane%20MIT.png)
-![](notes/aviation/images/ION%20Wind%20Plane%20MIT%202.png)
-![](notes/aviation/images/ION%20Wind%20Plane%20MIT%203.png)
-- [[notes/aviation/Electro-Static Propellor]]
+![](notes/aviation/cutting%20edge/images/ION%20Wind%20Plane%20MIT.png)
+![](notes/aviation/cutting%20edge/images/ION%20Wind%20Plane%20MIT%202.png)
+![](notes/aviation/cutting%20edge/images/ION%20Wind%20Plane%20MIT%203.png)
+- [[notes/aviation/cutting edge/Electro-Static Propellor]]
 - DARPA Black Widow MAV Micro UAV
 - [Mach effect thruster](https://www.youtube.com/watch?v=0bp8fk5rosI)
 
