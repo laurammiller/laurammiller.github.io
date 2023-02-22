@@ -24,7 +24,7 @@ tags : -ionwind
  ### DIY Projects
  1. [Water bottle ION Thruster](https://www.youtube.com/watch?v=b5hCJv-lD_k) 
  2. [Plasma Channel](https://www.youtube.com/watch?v=nrEBoPYS4ns&t=28s)
- (Will need a [High Voltage Generator](notes/electrical%20components/High%20Voltage%20Generator.md))
+ (Will need a [High Voltage Generator](notes/electrical%20concepts/High%20Voltage%20Generator.md))
 ## Plasma Jet
  ![](notes/images/Plasma%20Jet.png)
 ## Fluid Dynamics

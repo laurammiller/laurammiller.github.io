@@ -20,6 +20,9 @@ How to overcome the forces of gravity. Combustion engines rule in general aviati
 - [MHD](notes/aviation/cutting edge/Magnetohydrodynamic)
 - [Electro-Static Propellor](notes/aviation/cutting%20edge/Electro-Static%20Propellor.md)
 
+## Fringe/Rabbit hole
+- [Searl Effect Generator](https://segmagnetics.com/)
+
 ## Weather
 Pilots are part-time meteorologists by nature. Maybe I should build my own [weather station](notes/projects/environmental/Environmental%20Sensors.md)?
 
