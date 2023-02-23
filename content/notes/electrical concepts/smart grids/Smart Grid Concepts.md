@@ -50,3 +50,5 @@ https://www.powermag.com/the-vital-link-how-hvdc-is-modernizing-the-grid/
 For DC, “you charge the electrical capacitance of the cable when you energize it, but then the voltage stays constant, so there is no routine charging and recharging of the cables,” Rosenqvist said. “Once a DC cable has been energized, you have the capacity of the electrical conductor in the cable available for transmitting real power, and there is really no practical length limitation on how far you can go with a DC cable.” DC cables can enable transmissions of up to 2,000 MW at very high voltages in a single circuit, “which is not possible using AC technology,” Rosenqvist said.
 
 MMC technology was commercially deployed for the first time worldwide in 2018 as an upgraded control system in an HVDC system in the Trans Bay Cable (TBC) project (Figure 3), which includes a 53-mile HVDC submarine cable that runs under San Francisco Bay.
+
+https://www.electricaltechnology.org/2013/07/active-reactive-apparent-and-complex.html
