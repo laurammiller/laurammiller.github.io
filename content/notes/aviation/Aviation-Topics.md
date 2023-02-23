@@ -15,10 +15,7 @@ The newly required communication method (in most busy airspaces in the US) betwe
 
 ## Propulsion
 How to overcome the forces of gravity. Combustion engines rule in general aviation and have for 100 years, but I hope to see some really cool things coming soon.
-- [ION Propulsion](notes/aviation/cutting%20edge/ION%20Propulsion.md)
-- [Electric propulsion](notes/aviation/propulsion/Electric-Planes.md)
-- [MHD](notes/aviation/cutting edge/Magnetohydrodynamic)
-- [Electro-Static Propellor](notes/aviation/cutting%20edge/Electro-Static%20Propellor.md)
+- s[Propulsion](notes/aviation/propulsion/Propulsion%20Topics.md)
 
 ## Fringe/Rabbit hole
 - [Searl Effect Generator](https://segmagnetics.com/)
