@@ -23,6 +23,7 @@ The sensors I would want are:
 - [Sensor.Community](https://maps.sensor.community/#7/40.221/-83.662)
 	- https://sensor.community/en/sensors/airrohr/
 	- https://devices.sensor.community/
+- [RibbitNetwork](https://www.ribbitnetwork.org/)
 
 # Radiation
 - Safecast
@@ -43,7 +44,7 @@ A pretty simple system could be constructed using a microcontroller and an array
 	- [mightyohm kit](https://mightyohm.com/blog/2012/02/feed-your-geiger-readily-available-radioactive-test-sources/)
 	- [Hackaday Photodiode version](https://hackaday.com/2019/02/22/radiation-detector-eschews-tubes-uses-photodiode/)
 - RF Meter
-	- [Software Defined Radio](notes/RTLSDR/RTL-SDR-Basics.md)
+	- [Software Defined Radio](notes/electrical/RF/RTLSDR/RTL-SDR-Basics.md)
 - Temperature
 - Humidity
 - Barometric Pressure

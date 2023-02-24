@@ -1,5 +1,5 @@
 ---
-title: "Smart Grid Concepts"
+title: "Smart Grid Links"
 feed: show
 date: "2023-02-22"
 tags: 

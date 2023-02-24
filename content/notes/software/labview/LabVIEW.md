@@ -12,9 +12,9 @@ Best resources
 
 # Interesting Projects
 Some interesting projects I've encountered
-- [RTL-SDR](notes/RTLSDR/LabVIEW-RTL-SDR-Resources.md)
-- [OpenBCI](notes/openBCI/OpenBCI.md)
+- [RTL-SDR](notes/electrical/RF/RTLSDR/LabVIEW-RTL-SDR-Resources.md)
+- [OpenBCI](notes/electrical/biomedical/openBCI/OpenBCI.md)
 
 # Training
 Notes and concepts
-[[notes/labview/RT/RT Notes]]
+[[notes/software/labview/RT/RT Notes]]

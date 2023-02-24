@@ -3,7 +3,7 @@ title : "About Digital Gardens"
 feed: show
 date : 02-08-23
 ---
-[I](notes/basic/Laura.md) love gardening, and I love electrons. Here you will find a combination of both.
+[I](notes/me/Laura.md) love gardening, and I love electrons. Here you will find a combination of both.
 
 This is my space to put ideas out "into the void" while also allowing those ideas to grow.  I have the freedom and ability in this format to prune and nurture these public thoughts over time as I learn and explore. Some call it a digital garden, some call it a [second brain](https://github.com/sspaeti/Second-Brain)
 

@@ -16,17 +16,17 @@ I have been interested in flying and airplanes since I was little. I wonder if w
 >The desire to fly is an idea handed down to us by our ancestors who, in their grueling travels across trackless lands in prehistoric times, looked enviously on the birds soaring freely through. ~ Orville Wright
 
 >It has been my observation that the happiest of people, the vibrant doers of the world, are almost always those who are using - who are putting into play, calling upon, depending upon-the greatest number of their God-given talents and capabilities. ~John Glenn
-# Current Status
+## Current Status
 PPL
 
-# Goals
+## Goals
 1. Take some trips around the east coast in the club plane. Build up some confidence at different airports
 2.  IFR Rating
 
-# Club Plane
+## Club Plane
 Currently flying a '76 PA-28-181 Piper Archer
 [Archer Specs](notes/aviation/club/Archer%20Specs.md)
-# Flight Training
+## Flight Training
 Notes and concepts from my PPL
 
 ## Notes
