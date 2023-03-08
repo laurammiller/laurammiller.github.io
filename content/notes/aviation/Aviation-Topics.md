@@ -21,5 +21,5 @@ How to overcome the forces of gravity. Combustion engines rule in general aviati
 - [Searl Effect Generator](https://segmagnetics.com/)
 
 ## Weather
-Pilots are part-time meteorologists by nature. Maybe I should build my own [weather station](notes/myprojects/environmental/Environmental%20Sensors.md)?
+Pilots are part-time meteorologists by nature. Maybe I should build my own [weather station](notes/myprojects/environmental/WeatherStation.md)?
 

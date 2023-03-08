@@ -1,5 +1,5 @@
 ---
-title : "Environment Sensors"
+title : "WeatherStation"
 feed: show
 date : 02-16-23
 ---
