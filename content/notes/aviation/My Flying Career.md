@@ -25,6 +25,7 @@ PPL
 
 ## Club Plane
 Currently flying a '76 PA-28-181 Piper Archer
+[Flying Club](notes/aviation/club/FlyingClub.md)
 [Archer Specs](notes/aviation/club/Archer%20Specs.md)
 ## Flight Training
 Notes and concepts from my PPL
