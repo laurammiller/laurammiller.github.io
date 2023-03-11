@@ -24,7 +24,7 @@ date : 02-16-23
 - Garmin G5's
 - GTN 650
 - GNS 430W
-- GFC500 Autopilot with electric trim
+- [GFC500 Autopilot](https://www.garmin.com/en-US/p/pn/GFC-500AP-00) with electric trim
 - [GTX345](https://www.garmin.com/en-US/p/pn/010-01775-01) [Transponder](notes/aviation/components/Transponder.md)
 
 ## Other Upgrades
