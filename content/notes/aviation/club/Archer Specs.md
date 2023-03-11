@@ -25,7 +25,7 @@ date : 02-16-23
 - GTN 650
 - GNS 430W
 - GFC500 Autopilot with electric trim
-- GTX435 Transponder
+- [GTX345](https://www.garmin.com/en-US/p/pn/010-01775-01) [Transponder](notes/aviation/components/Transponder.md)
 
 ## Other Upgrades
 

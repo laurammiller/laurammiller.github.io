@@ -11,7 +11,7 @@ An index of topics correlated with airplanes, my love of aviation, and some rela
 ## ADS-B
 The newly required communication method (in most busy airspaces in the US) between aircrafts and towers to exchange information about position, altitude, speed, heading, type, etc.
 
-- [ADS-B-Basics](notes/aviation/ADSB/ADS-B-Basics.md)
+- [ADS-B](notes/aviation/ADSB/ADS-B.md)
 
 ## Propulsion
 How to overcome the forces of gravity. Combustion engines rule in general aviation and have for 100 years, but I hope to see some really cool things coming soon.
