@@ -34,4 +34,4 @@ date : 02-16-23
 ![500x200](notes/aviation/club/images/compass%20deviation.png)
 
 ## W&B
-![](notes/aviation/club/images/weightandbalance.png)
+![500](notes/aviation/club/images/weightandbalance.png)

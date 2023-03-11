@@ -10,7 +10,7 @@ Identification of Friend or Foe (IFF)
 A basic command/reply response system for identification and classification of aircraft in a controlled airspace
 
 ## Piper Archer Installation
-Garmin GTX 345 Series installed in [Archer Specs](notes/aviation/club/Archer%20Specs.md)
+Garmin GTX 345 Series installed in [Archer](notes/aviation/club/Archer%20Specs.md)
 
 ![300](notes/aviation/components/images/Archer%20Transponder%20OFF.png)
 
