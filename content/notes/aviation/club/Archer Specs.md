@@ -21,7 +21,9 @@ date : 02-16-23
 	- Grade: 100LL
 
 ## Avionics Upgrades
-- Garmin G5's
+- Garmin [G5](https://www.garmin.com/en-US/p/570665/pn/K10-00280-31)'s
+	- Attitude Indicator
+	- DG/HSI
 - GTN 650
 - GNS 430W
 - [GFC500 Autopilot](https://www.garmin.com/en-US/p/pn/GFC-500AP-00) with electric trim
