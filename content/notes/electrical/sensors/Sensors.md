@@ -7,12 +7,12 @@ tags:
 A reference on sensor types
 
 ## Temperature
-[Thermocouple](notes/electrical/sensors/Thermocouple.md)
-[Pyrometer](notes/electrical/sensors/Pyrometer.md)
+- [Thermocouple](notes/electrical/sensors/Thermocouple.md)
+- [Pyrometer](notes/electrical/sensors/Pyrometer.md)
 
 ## Pressure
-[[notes/aviation/components/altimeter]]
-[barometer](notes/electrical/sensors/barometric.md)
+- [altimeter](notes/aviation/components/altimeter.md)
+- [barometer](notes/electrical/sensors/barometric.md)
 
 ## Radiation
 [GeigerMullerTube](notes/electrical/sensors/GeigerMullerTube.md)

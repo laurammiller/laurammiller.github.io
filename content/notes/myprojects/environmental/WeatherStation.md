@@ -46,7 +46,7 @@ A pretty simple system could be constructed using a microcontroller and an array
 	- [Hackaday Photodiode version](https://hackaday.com/2019/02/22/radiation-detector-eschews-tubes-uses-photodiode/)
 - RF Meter
 	- [Software Defined Radio](notes/electrical/RF/RTLSDR/RTL-SDR-Basics.md)
-- Temperature
+- [Thermocouple](notes/electrical/sensors/Thermocouple.md)
 - Humidity
-- Barometric Pressure
+-  [barometric](notes/electrical/sensors/barometric.md) Pressure
 - GPS
