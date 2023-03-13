@@ -14,6 +14,7 @@ The sensors I would want are:
 - Barometric pressure
 - Water quality
 - Radiation
+( See [Sensors](notes/electrical/sensors/Sensors.md))
 
 *Interesting side note - A little local weather station would be helpful to determine and predict good [flying](notes/aviation/Aviation-Topics) days..*
 
