@@ -18,7 +18,7 @@ An index of projects in the pipeline, and showcase of completed ones
 
 ## Potted Plants (started)
 - Creating a Li-ION [battery pack](notes/myprojects/electrical/BatteryPacks.md)
-- A [LabVIEW](notes/software/labview/LabVIEW.md) [RTLSDR](notes/electrical/RF/RTLSDR/RTL-SDR-Basics.md) ADS-B GUI
+- A [LabVIEW](notes/software/labview/LabVIEW.md) [RTLSDR](notes/electrical/RF/RTLSDR/RTL-SDR.md) ADS-B GUI
 	- https://github.com/laurammiller/ADS-B
 
 ## Greenhouses and Forests (completed)

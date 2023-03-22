@@ -17,4 +17,4 @@ Some interesting projects I've encountered
 
 # Training
 Notes and concepts
-[[notes/software/labview/RT/RT Notes]]
+[[notes/software/labview/RT.FPGA/RT]]

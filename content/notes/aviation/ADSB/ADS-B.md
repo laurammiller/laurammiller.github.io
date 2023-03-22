@@ -32,7 +32,7 @@ Mandatory in most congested airspaces along with a Mode C [transponder](notes/av
 ## Technical details
 Lots of options in order to transmit/receive ADS-B data. There are two frequencies: 1090MHz and 978MHz. In order to fly in Class A, 1090MHz is required.
 
-Can be picked up with a cheap software defined radio. [[notes/electrical/RF/RTLSDR/RTL-SDR-Basics]] 
+Can be picked up with a cheap software defined radio. [[notes/electrical/RF/RTLSDR/RTL-SDR]] 
 
 ## Decoding ADS-B
 TBD..
