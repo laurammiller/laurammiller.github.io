@@ -3,6 +3,8 @@ title : "PPL Training"
 feed: show
 date : 02-16-23
 ---
-A review of the concepts I learned during PPL Training
+An index of study guides/terms for PPL training
 
-- [[notes/aviation/aerodynamics/Aerodynamics]]
+- [Airport Information](notes/aviation/airports/Airport%20Information.md)
+- [Acronyms](notes/aviation/PPL%20Training/Acronyms.md)
+- [Aerodynamics](notes/aviation/aerodynamics/Aerodynamics.md)
