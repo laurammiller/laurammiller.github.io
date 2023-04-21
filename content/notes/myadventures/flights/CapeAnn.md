@@ -13,5 +13,5 @@ Tach: 0.9
 Aircraft: N56DG, Cessna 172M
 
 ## Pics
-Out over the ocean and Sandy Point State Reservation, looking westward towards Crane Beach and Castle Hill Estate
+Out over the ocean and Sandy Point State Reservation, looking westward towards Crane Beach and Castle Hill Crane Estate
 ![700](notes/myadventures/flights/images/CranebeachCastleHill.png)
