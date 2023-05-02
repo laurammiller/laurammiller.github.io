@@ -19,3 +19,6 @@ Out over the ocean and Sandy Point State Reservation, looking westward towards C
 Plum Island State Park , Sandy Point State Reservation, Great Neck, Pavilion Beach
 ![700](notes/myadventures/flights/images/beaches.png)
 On final for runway 32 at KLWM over the lake![400](notes/myadventures/flights/images/landing32KLWM.png)
+## Route
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vtmNPt7mMN_-PbjQrhpykZ7EySqcwrY&ehbc=2E312F" width="640" height="480"></iframe>
