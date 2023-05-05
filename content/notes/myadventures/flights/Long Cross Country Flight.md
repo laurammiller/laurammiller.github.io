@@ -15,5 +15,5 @@ The route was Allegheny County Airport (KAGC) to Pittsburgh Butler Regional (KBT
 
 ## Memories
 
-[landing at KERI](https://youtu.be/NWd_SgtV2x4)
-[photos](https://laurasees.photography/long-cross-country-flight)
+- [landing at KERI](https://youtu.be/NWd_SgtV2x4)
+- [photos](https://laurasees.photography/long-cross-country-flight)
