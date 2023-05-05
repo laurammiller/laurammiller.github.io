@@ -13,7 +13,7 @@ A catalog of my favorite trips
 
 - New England History - Mark Twain, Plymouth Rock, Mayflower II
 - New England Foilage - Vermont in the Fall
-- Finger Lakes - waterfalls, wine, and good food
+- [Finger Lakes](notes/myadventures/travel/Finger%20Lakes.md) -  - waterfalls, wine, and good food 
 
 ### Southeast
 - Nashville
@@ -30,8 +30,8 @@ A catalog of my favorite trips
 - Epic RV Trip (Denali, Talkeetna, Seward, Homer)
 
 ### Puerto Rico
-- San Juan
-- Bio Bay
+- [San Juan](notes/myadventures/travel/San%20Juan.md)
+- Bioluminescent Bay
 
 ## Europe
 - Southern Spain

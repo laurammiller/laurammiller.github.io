@@ -11,5 +11,5 @@ Some notable flights I've been on.
 - [CapeAnn](notes/myadventures/flights/CapeAnn.md) Sightseeing
 - Prairie flight Kansas
 - First solo cross country Pittsburg (KAGC) Clarksburg, WV
-- Long cross country KAGC to Butler to Erie, PA
+- [Long Cross Country Flight](notes/myadventures/flights/Long%20Cross%20Country%20Flight.md)  KAGC - BTP- ERI
 - Night Flight KAGC to Altoona, PA KAOO
