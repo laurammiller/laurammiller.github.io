@@ -8,6 +8,7 @@ Index of planted flowers
 
 ## Spring Blooms
 ### Tulips
+
 Native to Europe, Asia. Prefers well-drained soil and full sun.
 ![400](notes/nature/plants/images/tulips.png)
 
