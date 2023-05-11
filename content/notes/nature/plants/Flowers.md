@@ -20,3 +20,8 @@ native to Europe and Asia. prefers full or partial sun. grows to 6-12 tall.
 native to northern hemisphere
 ![300](notes/nature/plants/images/lily.yellow.png)
 ![300](notes/nature/plants/images/lily.red.png)![300](notes/nature/plants/images/lily.red2.png) ![300](notes/nature/plants/images/lily.pink.png)
+
+### Clematis Vine
+![300](notes/nature/plants/images/clematis1.png)
+![300](notes/nature/plants/images/clematis2.png)
+![500](notes/nature/plants/images/clematis3.png)

@@ -7,8 +7,9 @@ An index of topics correlated with airplanes, my love of aviation, and some rela
 # General Aviation
 - [My Flying Career](notes/aviation/My%20Flying%20Career.md)
 - [Experiences](notes/myadventures/flights/Experiences.md)
+- [Terminology](notes/aviation/PPL%20Training/Terminology.md)
 
-# Technologies and Concepts
+# Technologies
 ## ADS-B
 The newly required communication method (in most busy airspaces in the US) between aircrafts and towers to exchange information about position, altitude, speed, heading, type, etc.
 
@@ -18,9 +19,9 @@ The newly required communication method (in most busy airspaces in the US) betwe
 How to overcome the forces of gravity. Combustion engines rule in general aviation and have for 100 years, but I hope to see some really cool things coming soon.
 - s[Propulsion](notes/aviation/propulsion/Propulsion%20Topics.md)
 
-## Fringe/Rabbit hole
+## Rabbit hole
 - [Searl Effect Generator](https://segmagnetics.com/)
 
-## Weather
+# Weather
 Pilots are part-time meteorologists by nature. Maybe I should build my own [weather station](notes/myprojects/environmental/WeatherStation.md)?
 

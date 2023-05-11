@@ -5,6 +5,7 @@ date: 02-10-23
 tags: -LabVIEW
 ---
 My favorite programming language
+
 # Good links
 Best resources
 - [LabVIEW Wiki](https://labviewwiki.org/wiki/Home)
@@ -15,6 +16,8 @@ Some interesting projects I've encountered
 - [RTL-SDR](notes/electrical/RF/RTLSDR/LabVIEW-RTL-SDR-Resources.md)
 - [OpenBCI](notes/electrical/biomedical/openBCI/OpenBCI.md)
 
-# Training
-Notes and concepts
-[[notes/software/labview/RT.FPGA/RT]]
+# Concepts
+- [RT](notes/software/labview/RT.FPGA/RT.md)
+- [compiler](notes/software/labview/compiler.md) vs [interpreter](notes/software/labview/interpreter.md)
+- [LVTips](notes/software/labview/LVTips.md)
+

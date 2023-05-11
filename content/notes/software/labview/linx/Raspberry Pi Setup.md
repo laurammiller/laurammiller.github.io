@@ -12,5 +12,3 @@ tags:
 # Get Imager and flash SD
 
 https://www.raspberrypi.com/software/ 
-
-# 
