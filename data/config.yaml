@@ -1,4 +1,4 @@
-name: Laura Miller
+name: Laura
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -18,11 +18,13 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  A personal wiki containing current projects and ideas, with room to grow in any direction.
+  A personal wiki containing ideas, projects, travel notes, and flying stuff.
 page_title:
-  "Laura's Digital Garden"
+  "laura's digital garden"
 links:
   - link_name: Photography
     link: https://laurasees.photography/
   - link_name: GitHub
     link: https://github.com/laurammiller/laurammiller.github.io
+  - link_name: LinkedIn
+    link: https://www.linkedin.com/in/laura-miller-403a7688

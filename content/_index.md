@@ -1,9 +1,9 @@
 ---
-title: Laura's Digital Garden
+title: Home
 enableToc: false
 ---
 
-Welcome to [my](notes/me/Laura.md) garden! Feel free to explore links and wander down any path you like. Or browse a list of topics in the [index](notes/index.md).
+Welcome to [my](notes/me/Laura.md) digital garden! Feel free to explore links and wander down any path you like. 
 
 Here you will find some of my current [projects](notes/myprojects/Projects.md) and [interests](notes/aviation/cutting%20edge/ION%20Propulsion.md), and if you come back next week, you may find that the [garden](notes/me/why-garden.md) has suddenly grown in a completely different direction. The best gardens are partially wild, anyhow 🍀
 
