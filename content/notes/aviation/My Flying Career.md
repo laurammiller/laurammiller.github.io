@@ -5,7 +5,7 @@ date : 02-16-23
 ---
 
 # History
-I have been interested in flying and airplanes since I was little. I wonder if watching pipeline planes fly low and slow over our property got me started. Then it was model airplanes, and model rockets, and rocketry summer camp, and airplane summer camp, then a flying simulator in college, and here I am living that dream having earned my PPL.  There's really no comparison to flying low in a single engine plane...
+I have been interested in flying and airplanes since I was little. I wonder if watching pipeline planes fly low and slow over our property got me started. Then it was model airplanes, and model rockets, and rocketry summer camp, and airplane summer camp, then a flying simulator in college, and here I am living that dream having earned my PPL.  There's really no [comparison](notes/writing/poetry.md) to flying low in a single engine plane...
 
 >Do the impossible, because almost everyone has told me my ideas are merely fantasies. ~ Howard Hughes.
 
