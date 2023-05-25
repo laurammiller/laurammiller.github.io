@@ -15,4 +15,4 @@ I have to admit I first heard this line in the movie Tomb Raider as they decide 
 ![500](notes/writing/images/auguries.of.innocence.png)
 
 How often in my life has another person been there when I needed some help! Is it God in us?
-![500](notes/writing/images/auguries.of.innocence.end.png)
+![400](notes/writing/images/auguries.of.innocence.end.png)
