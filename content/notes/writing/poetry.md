@@ -6,12 +6,12 @@ tags:
 ---
 
 ## The Heart and the Sky
-I feel a camaraderie with anyone who has "tasted flight."  I spend a lot of time daydreaming about the next flight.
+I feel a camaraderie with anyone who has tasted flight and I know it is a common feeling in the community.  I spend a lot of time daydreaming about being back up there. Why does it seem to "hook" certain people and not others?  
 
 ![700](notes/writing/images/The.Heart.and.the.Sky.png)
 
 ## Auguries of Innocence
-I have to admit I first heard this line in the movie Tomb Raider. Makes me want to go read some Virginia Woolf though. How important the little things are.
+I have to admit I first heard this line in the movie Tomb Raider as they decide that it is not a good idea to go back in time and change the way things happened, and there is beauty in life just as it is. Makes me want to go read some Virginia Woolf though. How important the little things are.
 ![500](notes/writing/images/auguries.of.innocence.png)
 
 How often in my life has another person been there when I needed some help! Is it God in us?
