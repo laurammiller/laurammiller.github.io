@@ -24,6 +24,7 @@ An index of projects in the pipeline, and showcase of completed ones
 	- https://github.com/laurammiller/ADS-B
 
 ## Mature
+- Learning Blender basics to make [LabVIEW Earrings](https://www.thingiverse.com/thing:6067515)
 - [pibooth photobooth](notes/myprojects/python/pibooth.md)
 - [Flapping costume fairy wings](https://youtu.be/5IRo4BEg1Yw)
 - The evolution of the Xmas Sweater
