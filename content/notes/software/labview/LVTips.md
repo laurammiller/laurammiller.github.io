@@ -5,7 +5,7 @@ date: "2023-04-19"
 tags: 
 ---
 
-A list of interesting LabVIEW tips/shortcuts, as I learn of them.
+A list of interesting LabVIEW shortcuts
 
 ## Swap terminals
 1. Hold CNTL

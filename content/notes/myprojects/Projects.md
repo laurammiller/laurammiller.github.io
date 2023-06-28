@@ -17,6 +17,8 @@ An index of projects in the pipeline, and showcase of completed ones
 - [GeigerCounter](notes/myprojects/environmental/GeigerCounter.md)
 - [QRNG](notes/myprojects/electrical/QRNG.md)
 - microcontroller quadcopter
+	- use an arduino or raspberry pi, or raspberry pi pico
+- create a [Native Butterfly Garden](notes/nature/plants/Native%20Butterfly%20Garden.md)
 
 ## Potted Plants
 - Creating a Li-ION [battery pack](notes/myprojects/electrical/BatteryPacks.md)
