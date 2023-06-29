@@ -9,7 +9,7 @@ Here you will find some of my current [projects](notes/myprojects/Projects.md) a
 
 [![[notes/images/NatureMorte.png|300|Nature Morte]]](https://leighmillera.wixsite.com/mysite/current-work?pgid=juy7g6jl-0fa06952-8c4a-4db6-8a5f-5067b2e42819)
 
-*Nature Morte by Amber Miller* ☝️
+*"Nature Morte" by Amber Miller* ☝️
 
 
 
