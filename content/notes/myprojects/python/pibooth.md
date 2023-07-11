@@ -21,7 +21,7 @@ The [pibooth](pibooth.org) project has been a great resource to building an easy
 Success!!
 
 ### Version 1- Oct '22
-Halloween themed - Worked great but I wasn't happy about how many cables I had laying around...
+Halloween themed - Worked great but I wasn't happy about how many cables I had lying around...
 ![[notes/myprojects/python/images/vipibooth2.png]]
 
 ![[notes/myprojects/python/images/printoutv1pibooth.png|400]]
