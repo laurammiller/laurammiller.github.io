@@ -8,5 +8,3 @@ tags:
 [LabVIEW](notes/software/labview/LabVIEW.md) is a compiled language (not interpreted)
 
 https://www.ni.com/en-us/support/documentation/supplemental/10/ni-labview-compiler--under-the-hood.html
-
-Not sure how the LV Run-Time engine fits in here..

@@ -15,10 +15,10 @@ Examples:
 - thermometer
 - pressure sensor
 - antenna
-- [[Thermocouple]]
-- [[LVDT]]
+- [[notes/electrical/sensors/Thermocouple|Thermocouple]]
+- [[notes/electrical/devices/LVDT|LVDT]]
 
 # fish finder
 
-![[fishfindertransducer.png]] 
+![[notes/electrical/devices/images/fishfindertransducer.png]] 
 https://www.furuno.com/special/en/fishfinder/topic2.html 

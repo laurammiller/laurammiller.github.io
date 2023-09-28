@@ -8,7 +8,7 @@ tags:
 A text-based configuration file used in many different languages.
 https://toml.io/en
 
-![[toml.io.png]]
+![[notes/software/rust/images/toml.io.png]]
 
 TOML LINT  and finding errors
-![[toml-lint.png]]
+![[notes/software/rust/images/toml-lint.png]]

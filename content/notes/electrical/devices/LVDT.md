@@ -12,7 +12,7 @@ A transformer that measures linear position. Another variation of this design is
 
 A transformer (consisting of alternating primary and secondary coils) is wrapped around a ferromagnetic rod.  A current is driven through the primary coils, which induces a current in the secondary circuit.  As the ferromagnetic core's position changes, the induced voltage in the secondary circuit changes. 
 
-![[LVDTcutaway.png]] 
+![[notes/electrical/devices/images/LVDTcutaway.png]] 
 
 ## Links
 - https://www.rdpe.com/ex/hiw-lvdt.htm 
