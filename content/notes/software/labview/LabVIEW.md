@@ -20,4 +20,6 @@ Some interesting projects I've encountered
 - [RT](notes/software/labview/RT.FPGA/RT.md)
 - [compiler](notes/software/labview/compiler.md) vs [interpreter](notes/software/labview/interpreter.md)
 - [LVTips](notes/software/labview/LVTips.md)
+- [[notes/software/labview/LabVIEW Style Notes|LabVIEW Style Notes]]
+- [[notes/software/labview/LV Dictionary|LV Dictionary]]
 

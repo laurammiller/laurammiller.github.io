@@ -1,8 +1,8 @@
 ---
-title: LabVIEW Style Notes
+title: "LabVIEW Style Notes"
 feed: show
-date: 2023-09-28
-tags:
+date: "2023-09-28"
+tags: 
 ---
 Reasons to care about style:
 - helps other programmers understand your code more quickly
@@ -10,12 +10,12 @@ Reasons to care about style:
 - helps with debugging
 - makes it easier to add changes or features later
 - helps you stay consistent
-Linked to [[notes/software/labview/LVTips|LVTips]]
+- Linked to [[notes/software/labview/LVTips|LVTips]]
 ## Icons
 
 ### Background 
 
-- LabVIEW icons are layered.
+- [[notes/software/labview/LabVIEW|LabVIEW]] icons are layered.
 - Merging layers down to the NI icon layer can cause issues later when a class banner or icon is updated
 - For class icons, the layers are ordered with the class icon behind the class banner
 ### bugs/issues

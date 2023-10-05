@@ -13,6 +13,7 @@ This is a list of things I'm curious about or am learning about.  I had a cowork
 - Learning about chatGPT enough to interface with [LabVIEW](notes/software/labview/LabVIEW.md)
 - Create nice [Charts and Graphs](notes/software/obsidian/Charts%20and%20Graphs.md) in Obsidian
 - Programming in Rust (can I become a [Rustacean?](https://www.rust-lang.org/learn))
+- Becoming fluent [[notes/software/Software Terms|Software Terms]]
 
  # Tech
 - How [Crypto](notes/software/blockchain/Crypto.md) works

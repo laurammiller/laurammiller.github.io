@@ -1,8 +1,8 @@
 ---
-title: Software Terms
+title: "Software Terms"
 feed: show
-date: 2023-08-17
-tags:
+date: "2023-08-17"
+tags: 
 ---
 
 
@@ -60,7 +60,7 @@ tags:
 - INI
 - XML
 
-## LabVIEW
+## [[notes/software/labview/LabVIEW|LabVIEW]]
 - vi
 - ctl
 - lvproj

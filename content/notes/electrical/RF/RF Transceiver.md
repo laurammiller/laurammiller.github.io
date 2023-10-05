@@ -4,10 +4,11 @@ feed: show
 date: "2023-03-21"
 tags: 
 ---
+## Definition
 
 "Transmitter-Receiver" Used for both RX and TX of [RF](notes/electrical/RF/RF.md) (Radio Frequency) Signals
 
-Common components:
+### Common components:
 
 - LNA (low noise amplifier)
 	- MAX2691

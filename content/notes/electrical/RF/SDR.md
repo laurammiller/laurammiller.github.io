@@ -4,7 +4,7 @@ feed: show
 date: "2023-03-21"
 tags: 
 ---
-"Software Defined Radio" A software-tunable RF device. 
+"Software Defined Radio" A software-tunable [[notes/electrical/RF/RF|RF]] device. 
 
 ## Working Principle
 Replacement of analog modulator, demodulator, tuner with ADC (analog to digital converter) and DSP (digital signal processing)

@@ -1,11 +1,12 @@
 ---
 title: "LV Dictionary"
 feed: show
-date: "2023-06-26"
+date: "2023-10-05"
 tags: 
 ---
 
-Some notes about random [[notes/software/labview/LabVIEW|LabVIEW]] concepts and quirks
+Some notes about random [[notes/software/labview/LabVIEW|LabVIEW]] concepts 
+
 ## Channel Wires
 - can be used to visually understand sending objects through wires
 - channels are dynamically created when loaded, and then compiled. This is in contrast to the typical compilation for LabVIEW which is compiled upon load
@@ -26,4 +27,14 @@ A third way to minimize subVI overhead is to inline subVIs into their calling VI
 Inlining subVIs is most useful for small subVIs, subVIs within a loop, subVIs with unwired outputs, or subVIs you call only once. To inline a subVI, place a checkmark in the **Inline subVI into calling VIs** checkbox on the Execution page of the **VI Properties** dialog box.
 
 As with turning subVIs into subroutines, inlining subVIs also has some tradeoffs. A subVI you inline cannot contain recursion, and all calling VIs of the subVI must be static. Also, when you inline a subVI, LabVIEW ignores any priority, reentrancy, or preferred execution settings.
+
+## CVT
+Current Value Table: a set of VIs used to store and retrieve data asynchronously from different parts of an application. Based on and similar to the concept of a functional global variable 
+#### Reference
+https://forums.ni.com/t5/Reference-Design-Content/LabVIEW-Current-Value-Table-CVT-Library/ta-p/3514251
+
+![[notes/software/labview/images/CVTUses.png]]
+
+## FGV
+Functional Global Variable
 
