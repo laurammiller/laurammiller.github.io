@@ -12,8 +12,9 @@ A reference on sensor types. The measurement of various sensors may involve an e
 - RTD (Resistance Temperature Detector)
 
 ## Pressure
-- [altimeter](notes/aviation/components/altimeter.md)
+- [Altimeter](notes/aviation/components/Altimeter.md)
 - [barometer](notes/electrical/sensors/barometric.md)
+- [[notes/electrical/sensors/Pressure Transducer|Pressure Transducer]]]
 
 ## Radiation
 - [GeigerMullerTube](notes/electrical/sensors/GeigerMullerTube.md)

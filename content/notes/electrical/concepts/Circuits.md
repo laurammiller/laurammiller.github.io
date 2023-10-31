@@ -38,3 +38,19 @@ a second pair of probes (labeled 3 and 4 above) to sense voltage. This second pa
 voltage levels.
 #### References
 - https://www.aemc.com/userfiles/files/resources/applications/micro-ohmmeter/APP-4WireKelvin.pdf 
+
+## Shunt Calibration
+
+A method for determining the full-scale output of a pressure transducer by electrically simulating a full load. For piezoresistive strain gauge-type pressure transducers.
+![[notes/electrical/concepts/images/shuntCalibration.png]]
+
+#### References
+- https://www.apgsensors.com/about-us/blog/what-is-shunt-cal-and-how-does-it-work/
+- https://studylib.net/doc/5720732/shunt-cal
+
+## Wheatstone Bridge
+- A circuit used to measure an unknown resistance by balancing two legs of a bridge circuit
+- Can be used to eliminate temperature bias when measuring pressure (voltage) strain gauges such as a [[notes/electrical/sensors/Pressure Transducer|Pressure Transducer]].
+- ![[notes/electrical/concepts/images/WheatstoneBridge.png]]
+#### References
+- https://www.grc.nasa.gov/WWW/k-12/airplane/tunwheat.html

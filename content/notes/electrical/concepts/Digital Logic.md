@@ -1,7 +1,7 @@
 ---
-title: Digital Logic
+title: "Digital Logic"
 feed: show
-date: 2023-09-28
+date: "2023-09-28"
 tags:
 ---
 ## Gray Code
