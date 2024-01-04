@@ -57,7 +57,7 @@ flowchart TD
 ```
 
 # Class Diagrams
-(not working)
+
 ```mermaid
 classDiagram
     note "From Duck till Zebra"
