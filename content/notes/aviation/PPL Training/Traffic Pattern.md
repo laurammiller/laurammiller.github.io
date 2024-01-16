@@ -8,7 +8,7 @@ tags:
 # Important Concepts
 - Untowered operations
 - Teardrop pattern entry
-- Towered/Untowered Radio Communication
+- Towered/Untowered Radio Communications
 
 # Club Standard Pattern
 
